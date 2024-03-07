@@ -6,12 +6,16 @@ This repository contains terraform configuration files to automate the creation 
 
 Clone repository 
  `git clone https://github.com/wseyi/terraform-s3.git`
+
 Navigate to the directory 
  `cd terraform-s3`
+
 Initialize terraform 
  `terraform init`
+
 Confirm configuration
  `terraform plan`
+
 Create s3 bucket 
  `terraform apply` 
 
