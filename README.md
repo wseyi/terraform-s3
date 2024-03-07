@@ -20,4 +20,4 @@ Create s3 bucket
 * `terraform apply` 
 
 ### To remove S3 bucket 
- `terraform destroy` 
+* `terraform destroy` 
