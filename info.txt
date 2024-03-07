@@ -1,0 +1,1 @@
+This is to verify the correctness of Terraform configuration files. It checks the syntax of the Terraform files, ensures the correct usage of attributes and values, and validates the configuration based on the core syntax of Terraform and also by checking all the providers in the code. This command will be done anytime data is pushed to this repositor.
