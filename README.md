@@ -4,11 +4,16 @@ This repository contains terraform configuration files to automate the creation 
 
 **Usage:**
 
-1. `git clone https://github.com/wseyi/terraform-s3.git`
-2. `cd terraform-s3`
-3. `terraform init`
-4. `terraform apply`
+Clone repository 
+ `git clone https://github.com/wseyi/terraform-s3.git`
+Navigate to the directory 
+ `cd terraform-s3`
+Initialize terraform 
+ `terraform init`
+Confirm configuration
+ `terraform plan`
+Create s3 bucket 
+ `terraform apply` 
 
 ### To remove S3 bucket 
-
-`terraform destroy` 
+ `terraform destroy` 
