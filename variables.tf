@@ -13,7 +13,7 @@ variable "Name" {
 variable "bucket" {
   description = "Value of the bucket name"
   type        = string
-  default     = "my-tf-test-bucket"
+  default     = "tf-bucket"
 }
 
 variable "region" {
