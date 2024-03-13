@@ -30,3 +30,4 @@ resource "aws_iam_policy" "root_delete_policy" {
       }
     }]
   })
+}
